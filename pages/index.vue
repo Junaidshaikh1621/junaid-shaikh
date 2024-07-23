@@ -13,7 +13,7 @@
 <script>
 export default {
   head: {
-    title: 'Home - Barney!',
+    title: 'Home - Junaid',
     meta: [
       {
         hid: 'description',

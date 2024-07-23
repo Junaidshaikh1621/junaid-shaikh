@@ -24,14 +24,18 @@
         </div>
       </div>
     </div>
-    <div class="take-away">
-      <!-- <img src="https://res.cloudinary.com/odumz/image/upload/v1666509813/projects/barney/case-ZuriChat-logo_bomgnz.png" alt="ZuriChat logo" class="md:w-3/7 w-5/7" loading="lazy"> -->
-      <!-- <p class="take-away-text md:pl-4">Final Logo Design</p> -->
-    </div>
+    <!-- <div class="take-away">
+      <img src="https://res.cloudinary.com/odumz/image/upload/v1666509813/projects/barney/case-ZuriChat-logo_bomgnz.png" alt="ZuriChat logo" class="md:w-3/7 w-5/7" loading="lazy">
+      <p class="take-away-text md:pl-4">Final Logo Design</p>
+    </div> -->
     <div class="pt-10">
       <div class="design">
-        <div class="design-image">
+        <!-- <div class="design-image">
           <img src="https://i.imgur.com/Z897ZWu.jpeg" alt="ZuriChat original view" class="transform scale-105" loading="lazy">
+          <p class="text-gray-400 py-3 text-sm">Homepage Wireframe</p>
+        </div> -->
+        <div class="design-image">
+          <img src="https://i.imgur.com/Z897ZWu.jpeg" alt="ZuriChat darkmode" loading="lazy">
           <p class="text-gray-400 py-3 text-sm">Homepage Wireframe</p>
         </div>
         <div class="design-image">

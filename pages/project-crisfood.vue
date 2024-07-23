@@ -26,7 +26,7 @@
 <script>
 export default {
   head: {
-    title: 'Zuri Chat - Barney!',
+    title: 'Crisfood - Junaid',
     meta: [
       {
         hid: 'description',

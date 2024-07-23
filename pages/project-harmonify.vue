@@ -24,7 +24,7 @@
 <script>
 export default {
   head: {
-    title: 'SB Taxi - Barney!',
+    title: 'Harmonify - Junaid',
     meta: [
       {
         hid: 'description',

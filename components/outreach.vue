@@ -1,6 +1,6 @@
 <template>
   <div class="text-skin-primary xl:px-70 lg:px-36 md:px-20 px-10 pb-20 overflow-hidden">
-    <h1 class="font-extrabold text-5xl lg:pr-32 pb-8">Work inquiry, question or <span>something else? <span class="text-skin-secondary hover:opacity-80"><a href="mailto:barnabasinyangsam@yahoo.com">Email me.</a></span></span></h1>
+    <h1 class="font-extrabold text-5xl lg:pr-32 pb-8">Work inquiry, question or <span>something else? <span class="text-skin-secondary hover:opacity-80"><a href="mailto:junaidshaikh1621@gmail.com">Email me.</a></span></span></h1>
     <ul class="flex justify-center lg:justify-start gap-4">
       <li class="underlined"><a href="https://www.linkedin.com/in/junaid-shaikh-aa7526202" target="_blank" rel="nofollow">LinkedIn</a></li>
       <li class="underlined"><a href="https://www.figma.com/@FigmaMale21" target="_blank" rel="nofollow">Figma Community Profile</a></li>

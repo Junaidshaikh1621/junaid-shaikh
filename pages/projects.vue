@@ -16,7 +16,7 @@
 <script>
 export default {
   head: {
-    title: 'Projects - Barney!',
+    title: 'Projects - Junaid',
     meta: [
       {
         hid: 'description',

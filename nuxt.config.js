@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Barney!',
+    title: 'Junaid',
     htmlAttrs: {
       lang: 'en'
     },
@@ -28,11 +28,11 @@ export default {
         property: 'og:title',
         content: 'Barney'
       },
-      {
-        hid: 'og:image',
-        property: 'og:image',
-        content: 'https://res.cloudinary.com/griffintech/image/upload/v1637172936/barney/barneys-logo_oztll8.png'
-      },
+      // {
+      //   hid: 'og:image',
+      //   property: 'og:image',
+      //   content: 'https://res.cloudinary.com/griffintech/image/upload/v1637172936/barney/barneys-logo_oztll8.png'
+      // },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: 'https://res.cloudinary.com/griffintech/image/upload/v1637172894/barney/favicon_hlnc0y.ico' },

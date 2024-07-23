@@ -32,19 +32,19 @@
           {
             image: 'https://i.imgur.com/2sbGGxx.png',
             title: 'Harmonify',
-            link: 'project-sb-taxi',
+            link: 'project-harmonify',
             description: 'Creating an Unforgettable Music Experience'
           },
           {
             image: 'https://i.imgur.com/jcFnCcO.jpeg',
             title: 'Analytical Dashboard',
-            link: 'project-krypto-nft',
+            link: 'project-analytical-dashboard',
             description: 'Dashboard for Social Media Analytics'
           },
           {
             image: 'https://i.imgur.com/XgAkhrx.jpeg',
             title: 'Crisfood',
-            link: 'project-zuri-chat',
+            link: 'project-crisfood',
             description: 'Your Desired Destination to Order Food Online'
           },
           {
