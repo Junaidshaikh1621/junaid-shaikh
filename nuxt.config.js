@@ -16,26 +16,26 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'My name is Barnabas Olayinka Inyangsam, and I\'m a product designer who focuses on creating beautiful experiences for people that improve and enhance how we live. I enjoy assisting others, understanding their needs and behaviors, and bringing their ideas to reality.' },
       { name: 'format-detection', content: 'telephone=no' },
-      { property: 'og:site_name', content: 'Barney' },
+      { property: 'og:site_name', content: 'Junaid' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://barney.vercel.app'
+        content: 'https://junaid-shaikh.vercel.app'
       },
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Barney'
+        content: 'Junaid'
       },
       // {
       //   hid: 'og:image',
       //   property: 'og:image',
-      //   content: 'https://res.cloudinary.com/griffintech/image/upload/v1637172936/barney/barneys-logo_oztll8.png'
+      //   content: 'https://res.cloudinary.com/griffintech/image/upload/v1637172936/Junaid/Junaids-logo_oztll8.png'
       // },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: 'https://res.cloudinary.com/griffintech/image/upload/v1637172894/barney/favicon_hlnc0y.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: 'https://res.cloudinary.com/griffintech/image/upload/v1637172894/Junaid/favicon_hlnc0y.ico' },
       { rel: 'stylesheet' , href: 'https://fonts.googleapis.com/css?family=Rubik'}
     ]
   },
