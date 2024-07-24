@@ -14,7 +14,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'My name is Barnabas Olayinka Inyangsam, and I\'m a product designer who focuses on creating beautiful experiences for people that improve and enhance how we live. I enjoy assisting others, understanding their needs and behaviors, and bringing their ideas to reality.' },
+      { hid: 'description', name: 'description', content: 'My name is Junaid Shaikh, and I\'m a product designer who focuses on creating beautiful experiences for people that improve and enhance how we live. I enjoy assisting others, understanding their needs and behaviors, and bringing their ideas to reality.' },
       { name: 'format-detection', content: 'telephone=no' },
       { property: 'og:site_name', content: 'Junaid' },
       { hid: 'og:type', property: 'og:type', content: 'website' },

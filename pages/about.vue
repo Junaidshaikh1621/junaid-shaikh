@@ -21,7 +21,7 @@ export default Vue.extend({
       {
         hid: 'description',
         name: 'description',
-        content: 'My name is Barnabas Olayinka Inyangsam, and I\'m a product designer who focuses on creating beautiful experiences for people that improve and enhance how we live.'
+        content: 'My name is Junaid Shaikh and I\'m a product designer who focuses on creating beautiful experiences for people that improve and enhance how we live.'
       }
     ],
   },
