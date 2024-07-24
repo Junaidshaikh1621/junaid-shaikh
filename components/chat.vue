@@ -35,11 +35,11 @@
           <p class="text-gray-400 py-3 text-sm">Homepage Wireframe</p>
         </div> -->
         <div class="design-image">
-          <img src="https://i.imgur.com/Z897ZWu.jpeg" alt="ZuriChat darkmode" loading="lazy">
+          <img src="https://i.imgur.com/Z897ZWu.jpeg" alt="Homepage Wireframe" loading="lazy">
           <p class="text-gray-400 py-3 text-sm">Homepage Wireframe</p>
         </div>
         <div class="design-image">
-          <img src="https://i.imgur.com/Gf0rf0M.jpeg" alt="ZuriChat darkmode" loading="lazy">
+          <img src="https://i.imgur.com/Gf0rf0M.jpeg" alt="Cart Wireframe" loading="lazy">
           <p class="text-gray-400 py-3 text-sm">Cart Wireframe</p>
         </div>
       </div>
